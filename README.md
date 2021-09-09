@@ -17,7 +17,7 @@
 </p>
 <br>
 
-<em><b>Hello there</b></em>, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I'm <em><b>Vrinda Vinod</b></em>, a passionate self-taught <em><b>full stack web developer</b></em> and a <em><b>freelance software engineer</b></em> from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<em><b>Hello there</b></em>, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I'm <em><b>Vrinda Vinod</b></em>, a passionate self-taught <em><b>full stack web developer</b></em> and a <em><b>freelance software engineer</b></em> from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also a <em><b>devops enthusiast</b></em> and <em><b>IITM Data Science</b></em> student. I learned a lot from the start-up community and i love how collaboration and knowledge sharing happened through working for multiple start-ups.
 
@@ -26,7 +26,7 @@ I am also a <em><b>devops enthusiast</b></em> and <em><b>IITM Data Science</b></
   <p align="center">
   <em>
     I am <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
