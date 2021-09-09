@@ -55,8 +55,9 @@ I am also a <em><b>devops enthusiast</b></em> and <em><b>IITM Data Science</b></
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
   ### 🐱My Github stats:
-![Vrinda's github stats](https://github-readme-stats.vercel.app/api?username=vrindavinod&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavinod&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=vrindavinod&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrindavinod&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindavinod&count_private=true&theme=radical" alt="Jas-Script" />
 
 </div>
 
