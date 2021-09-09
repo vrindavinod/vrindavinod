@@ -17,9 +17,9 @@
 </p>
 <br>
 
-<em><b>Hello there</b></em>, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I'm <em><b>Vrinda Vinod</b></em>, a passionate self-taught <em><b>full stack web developer</b></em> and a <em><b>freelance software engineer</b></em> from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<b>Hello there</b>, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I'm <b>Vrinda Vinod</b>, a passionate self-taught <b>full stack web developer</b> and a <b>freelance software engineer</b> from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also a <em><b>devops enthusiast</b></em> and <em><b>IITM Data Science</b></em> student. I learned a lot from the start-up community and i love how collaboration and knowledge sharing happened through working for multiple start-ups.
+I am also a <b>devops enthusiast</b> and <b>IITM Data Science</b> student. I learned a lot from the start-up community and i love how collaboration and knowledge sharing happened through working for multiple start-ups.
 
   <img align="right" alt="GIF" src="https://github.com/vrindavinod/vrindavinod/blob/main/media/code.gif?raw=true" width="500" height="320" />
   
