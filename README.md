@@ -6,4 +6,6 @@ hi, i'm [Vrinda Vinod], a passionate self-taught full stack web developer and a 
 
 i am also a devops enthusiast and IITM Data Science student. I learned a lot from the start-up community and i love how collaboration and knowledge sharing happened through working for multiple start-ups.
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
