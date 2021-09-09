@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi there <img src="https://github.com/vrindavinod/vrindavinod/blob/main/Hi.gif" width="30px"></h2>
+<h2> Hi there <img src="https://github.com/vrindavinod/vrindavinod/blob/main/media/Hi.gif" width="30px"></h2>
   </div>
 <br>
 
@@ -7,7 +7,7 @@
 
 i am also a devops enthusiast and IITM Data Science student. I learned a lot from the start-up community and i love how collaboration and knowledge sharing happened through working for multiple start-ups.
 
-  <img align="right" alt="GIF" src="https://github.com/vrindavinod/vrindavinod/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/vrindavinod/vrindavinod/blob/main/media/code.gif?raw=true" width="500" height="320" />
   
  - 💼 any freelance work? do reach, [email](mailto:achukrishnaachu3@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -23,4 +23,6 @@ i am also a devops enthusiast and IITM Data Science student. I learned a lot fro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://github.com/vrindavinod/vrindavinod/blob/main/media/aqgARnP_700b.gif" alt="README Jokes"></a>
 
